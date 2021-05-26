@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/Documentos/DIO/dotnet/Revisao/Revisao.csproj",
+      "projectUniqueName": "/home/ubuntu/Documentos/DIO/dotnet/studentsmanagement-api.net/Revisao.csproj",
       "projectName": "Revisao",
-      "projectPath": "/home/ubuntu/Documentos/DIO/dotnet/Revisao/Revisao.csproj",
+      "projectPath": "/home/ubuntu/Documentos/DIO/dotnet/studentsmanagement-api.net/Revisao.csproj",
       "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/Documentos/DIO/dotnet/Revisao/obj/",
+      "outputPath": "/home/ubuntu/Documentos/DIO/dotnet/studentsmanagement-api.net/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ubuntu/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7a4r40iEbNPWVqFJrMxz6XNJGuIVXrzH+uSyYkN52EnDheGkjqWWxRWcb01ZC8MSWXtYSBMYCjGMpEJ5byODhw==",
+  "dgSpecHash": "VCzcawN4pGQTIZUMcL7w1lk3B7fDVBzSFPsrpjyrN4cBqhqwjjf9Mm3Zd7xpxXeqJclrwmFpmU+Si0hngNgWcA==",
   "success": true,
-  "projectFilePath": "/home/ubuntu/Documentos/DIO/dotnet/Revisao/Revisao.csproj",
+  "projectFilePath": "/home/ubuntu/Documentos/DIO/dotnet/studentsmanagement-api.net/Revisao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
